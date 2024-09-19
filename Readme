@@ -1,1 +1,3 @@
 in flutter application main.dart alreardy exist so create two files with name 'home_page.dart & todolist.dart' and paste given codes inside
+
+'flutter_slidable: ^3.1.1' -----> paste this text inside pubspec.yaml file (slidable widget)
